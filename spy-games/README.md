@@ -1,4 +1,4 @@
-Project : Spy Games(1/7)
+Project : Spy Games
 
 
 Problem Statement
