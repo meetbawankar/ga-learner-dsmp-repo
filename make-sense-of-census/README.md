@@ -28,7 +28,7 @@ income	Annual Income of the person{ 0 : Less than or equal to 50K,1 : More than 
 Why solve this project
 After completing this project, you will have a better grip on working with numpy. In this project, you will apply the following concepts:
 
-Array Appending
-Array Slicing
-Array Filtering
-Array Aggregation
+I]Array Appending
+II]Array Slicing
+III]Array Filtering
+IV]Array Aggregation
